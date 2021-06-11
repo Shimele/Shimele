@@ -8,7 +8,7 @@ I'm a passionate learner who is always willing to learn new technologies and liv
 - 🔭 I’m currently looking for opportunities to participate and build stuffs that can make a difference in people's life
 - 🌱 I’m currently learning React
 - 💬 Ask me about my career transition journey 😄
-- 📫 How to reach me: Twitter: [@B_codiing](https://twitter.com/B_codiing), [/in/belynda-bechem-agbor](https://www.linkedin.com/in/belynda-bechem-agbor-b21517127/)
+- 📫 How to reach me: Twitter: [@B_codiing](https://twitter.com/B_codiing), [LinkedIn](https://www.linkedin.com/in/belynda-bechem-agbor-b21517127/)
 - ⚡ Fun fact: i :heart: dogs, and people more 🥰
 
 
