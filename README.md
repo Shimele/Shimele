@@ -5,11 +5,11 @@ I am a commercial assistant turned developer. For some time now, i have been lea
 I'm a passionate learner who is always willing to learn new technologies and liverage them to solve real life problems.
 
 
-- 🔭 I’m currently working on React calculator project
+- 🔭 I’m currently looking for opportunities to participate and build stuffs that can make a difference in people's life
 - 🌱 I’m currently learning React
-- 💬 Ask me about Javascript
-- 📫 How to reach me: @B_codiing
-- ⚡ Fun fact: i :heart: dogs.
+- 💬 Ask me about my career transition journey 😄
+- 📫 How to reach me: Twitter: [@B_codiing](https://twitter.com/B_codiing), [/in/belynda-bechem-agbor](https://www.linkedin.com/in/belynda-bechem-agbor-b21517127/)
+- ⚡ Fun fact: i :heart: dogs, and people more 🥰
 
 
 ### My Technology stacks
