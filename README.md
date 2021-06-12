@@ -1,5 +1,5 @@
 
-
+<img alt="header image" src=""/>
 
 I am a commercial assistant turned developer. For some time now, i have been learning part time how to develope awesome web sites and tools.
 I'm a passionate learner who is always willing to learn new technologies and liverage them to solve real life problems.
