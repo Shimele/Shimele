@@ -17,7 +17,8 @@ I'm a passionate learner who is always willing to learn new technologies and liv
 
 
 ### Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shimele)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shimele&theme=omni)
+)](https://github.com/anuraghazra/github-readme-stats)
 ### Github Streak
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shimele&theme=radical)](https://git.io/streak-stats)
 
