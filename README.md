@@ -19,10 +19,9 @@ I'm a passionate learner who is always willing to learn new technologies and liv
 
 ### Github Streak
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shimele&theme=radical)](https://git.io/streak-stats)
-
 ### Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shimele&theme=omni)
-](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shimele&theme=radical)](https://github.com/shimele/github-readme-stats)
-
-
+](https://github.com/anuraghazra/github-readme-stats)
+### Most used language
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shimele&theme=radical)](https://github.com/shimele/github-readme-stats)
 
