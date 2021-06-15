@@ -24,5 +24,5 @@ I'm a passionate learner who is always willing to learn new technologies and liv
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shimele&theme=omni)
 ](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shimele)](https://github.com/shimele/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shimele&layout=compact&theme=omni)](https://github.com/shimele/github-readme-stats)
 
